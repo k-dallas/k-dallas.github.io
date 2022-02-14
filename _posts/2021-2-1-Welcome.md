@@ -2,4 +2,4 @@
 layout: post
 title: Welcome!
 ---
-You can change the title above if you want to and then write your content.  
+Kathryn Dallas is a third year Biochemistry student at California Polytechnic Institute. 
