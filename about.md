@@ -3,9 +3,6 @@ layout: page
 title: About
 permalink: /about/
 ---
-
-Some information about you!
-
 ### Hello, I'm Kathryn Dallas.
 ###### She/Her
 
