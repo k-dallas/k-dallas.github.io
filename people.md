@@ -5,6 +5,7 @@ permalink: /people/
 ---
 
 ## Kathryn Dallas
+###### she/her
 The person I work with most frequently is myself, you can find out everything about me by continueing to explore this webpage, such as my [About](https://k-dallas.github.io/about/). But I reccomend you continue reading to learn about my wonderful friends and colleagues.
 
 ## Anthony Hampton
